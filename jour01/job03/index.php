@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,7 +36,7 @@ $float= 12.4;
         
     </tr>
     <tr>
-        <td>Chaine de caractère</td>
+        <td>Chaine de caractères</td>
         <td>$str</td>
         <td><?php echo $str ?></td>
        
