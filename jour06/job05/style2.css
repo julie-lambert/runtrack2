@@ -1,0 +1,33 @@
+*{
+    font-size: 35px;
+    font-family: 'Great Vibes', cursive;
+}
+
+
+body{
+font-family: 'Great Vibes', cursive;
+background: rgb(97,223,237);
+background: linear-gradient(90deg, rgba(97,223,237,0.7192575406032482) 0%, rgba(61,207,137,0.8700696055684455) 100%);
+background-image: url(noel.jpg);
+background-repeat: no-repeat;
+background-size: 100% 1000px;
+margin: 25%;
+margin-left: 30%;
+}
+
+label{
+    font-size: 60px;
+    color:rgb(128, 5, 5);
+    font-weight: bold;
+}
+
+select{
+    background-color: rgb(216, 221, 221);
+    box-sizing: border-box;
+    border-width: 2px;
+    border-style: outset;
+}
+
+input{
+    background-color: rgb(216, 221, 221);
+}
