@@ -7,6 +7,7 @@
     <input type="email" name="email">
     <br><br>
     <input type="submit" value="Envoyer">
+    
 </form>
 
 <?php
